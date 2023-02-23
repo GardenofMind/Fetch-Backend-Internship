@@ -1,0 +1,62 @@
+﻿1. Why did you choose the tools, libraries, and language you used for the coding exercise? 
+
+
+I chose Java because it is a compiler based programming language which runs faster than Python. It also showcases my ability to organize data into various data structures as well as my understanding of object oriented programming.
+
+I chose to organize the data into an object called transactions, allowing me to use a Hashmap to store each payer and their accumulated points with a constant time complexity. I used a priority queue with a logarithmic time complexity to sort the transactions based on their timestamp. This approach optimizes the runtime and scalability of my solution.
+
+
+
+
+2. What are the advantages and disadvantages of your solution?
+
+
+Advantages:
+
+
+Readability: My solution includes commenting for someone who may be unfamiliar with Java
+
+
+Scalability: my solution is designed to be easily scalable, so it can accommodate larger datasets and more complex operations.
+
+
+Flexibility: my solution is flexible enough to handle a variety of different inputs and scenarios. 
+
+
+Efficiency: my solution is designed to be efficient and optimize runtime.
+
+
+Maintainability: my solution is easy to maintain and update.
+
+
+Disadvantages:
+
+
+Although my solution uses try-catch blocks to handle incorrect input, it has not been tested against various file types which may be present in a real world application. 
+This would require updates in error handling.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+
+
+One of my favorite projects in school was a group project to design a mobile app in my User Centered Design class. Throughout the semester, we learned about the process of design, conducted contextual inquiries and used the insights gathered to develop an application. Our final project was to create a recipe app that provided users with recipes based on the ingredients they had in their kitchen and the amount of time they had available to cook.
+
+
+ What made this project particularly challenging was that we were constantly challenged to view our solution through a different set of eyes. We did our best to identify and incorporate signifiers and affordances that would make the app intuitive and easy to use for a diverse range of users, including those with different cultural backgrounds and physical limitations. Through this experience, I gained valuable insights into making projects more accessible and user-friendly.
+
+
+As for a personal project, I have spent the last five years restoring a 1970 VW bus. I had little prior experience with car restoration, so I went to school to learn to weld and paint, and spent over 4000 hours on bodywork alone. The project was a significant challenge and although it is unrelated to software engineering, I believe it is a testament to my work ethic. It forced me to be a beginner, to make mistakes, to learn from others, to seek out help, and through it all came a lot of personal growth.
